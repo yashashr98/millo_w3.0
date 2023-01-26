@@ -1,4 +1,4 @@
-# Real Estate NFT DApp
+# Realestate dapp
 
 ## Technology Stack & Tools
 
