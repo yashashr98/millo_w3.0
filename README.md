@@ -1,4 +1,4 @@
-# Realestate dapp
+# Real estate dapp
 
 ## Technology Stack & Tools
 
